@@ -1,0 +1,9 @@
+{
+    "name": "Home Karaoke Chrome Extension",
+    "description": "Extension to allow pitch changes for YouTube Karaoke videos",
+    "version": "1.0",
+    "manifest_version": 3,
+    "action": {
+        "default_popup": "src/popup/index.html"
+    }
+}
