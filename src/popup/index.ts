@@ -1,4 +1,4 @@
-import AudioController from '../components/AudioController.svelte'
+import AudioController from '../components/AudioController.svelte';
 
 const target = document.getElementById('app');
 
